@@ -1,0 +1,3 @@
+Anthracnose
+Rust
+Leaf Spot

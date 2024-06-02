@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'Anthracnose'
+}
+
+item {
+  id: 2
+  name: 'Rust'
+}
+
+item {
+  id: 3
+  name: 'Leaf Spot'
+}
+
